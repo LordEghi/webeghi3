@@ -1,0 +1,25 @@
+.header {
+    background-color: black;
+}
+
+.navbar-brand {
+    padding-left: 50%;
+}
+
+.section-footer {
+    a {
+        color: blue;
+    }
+}
+
+.carousel-item {
+    h2 {
+        padding-left: 35%;
+    }
+}
+
+.footer {
+    container-fluid {
+        align-items: center;
+    }
+}
